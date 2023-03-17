@@ -1,1 +1,1 @@
-# Credit-EDA-Assignment-(Loan Defaulter)
+# Credit-EDA-Assignment-(Loan Defaulter) Indivdual case study
